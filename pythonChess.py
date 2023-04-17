@@ -16,17 +16,17 @@ pygame.display.set_caption("Noob Chess")
 
 pecas = { 
          "B_w": pygame.image.load("C:/Users/YourPc/B_w.png"),
-         "K_w": pygame.image.load("C:/Users/VICTOR/YourPc/K_w.png"),
-         "N_w": pygame.image.load("C:/Users/VICTOR/YourPc/N_w.png"),
-         "P_w": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/P_w.png"),
-         "Q_w": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/Q_w.png"),
-         "R_w": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/R_w.png"),
-         "b": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/b_w.png"),
-         "k": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/k_w.png"),
-         "n": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/n_w.png"),
-         "p": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/p_w.png"),
-         "q": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/q_w.png"),
-         "r": pygame.image.load("C:/Users/VICTOR/YourPc/pieces/r_w.png"),
+         "K_w": pygame.image.load("C:/Users/YourPc/K_w.png"),
+         "N_w": pygame.image.load("C:/Users/YourPc/N_w.png"),
+         "P_w": pygame.image.load("C:/Users/YourPc/pieces/P_w.png"),
+         "Q_w": pygame.image.load("C:/Users/YourPc/pieces/Q_w.png"),
+         "R_w": pygame.image.load("C:/Users/YourPc/pieces/R_w.png"),
+         "b": pygame.image.load("C:/Users/YourPc/pieces/b_w.png"),
+         "k": pygame.image.load("C:/Users/YourPc/pieces/k_w.png"),
+         "n": pygame.image.load("C:/Users/YourPc/pieces/n_w.png"),
+         "p": pygame.image.load("C:/Users/YourPc/pieces/p_w.png"),
+         "q": pygame.image.load("C:/Users/YourPc/pieces/q_w.png"),
+         "r": pygame.image.load("C:/Users/YourPc/pieces/r_w.png"),
 
         }
 
