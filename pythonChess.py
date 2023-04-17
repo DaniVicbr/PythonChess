@@ -1,8 +1,3 @@
-#Xadrez ruim feito por mim... vamos ver as atrocidades que eu vou conseguir fazer...
-'''
-Coments:
-
-'''
 import pygame
 import os
 os.environ['SDL_VIDEO_CENTERED'] = '1'
