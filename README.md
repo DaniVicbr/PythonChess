@@ -1,6 +1,6 @@
 PYTHON CHESS 1.0
 
-pt-BR: Um jogo de xadrez criado com a linguagem de programação Python.
+pt-BR: Um jogo de xadrez criado com a linguagem de programação Python e com a biblioteca pygame.
 
 Este é um projeto feito para o meu portfólio. As ferramentas utilizadas até o momento estão sendo a linguagem python, a biblioteca pygame e chat GPT para auxílio na criação de lógicas e resolução de problemas.
 Infelizmente ainda tenho que fazer alterações como limitar o tipo de movimento de cada peça, colocar corretamente peças pretas e brancas e criar uma inteligência artificial mínima para poder jogar o game.
