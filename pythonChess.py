@@ -21,12 +21,12 @@ pecas = {
          "P_w": pygame.image.load("C:/Users/YourPc/pieces/P_w.png"),
          "Q_w": pygame.image.load("C:/Users/YourPc/pieces/Q_w.png"),
          "R_w": pygame.image.load("C:/Users/YourPc/pieces/R_w.png"),
-         "b": pygame.image.load("C:/Users/YourPc/pieces/b_w.png"),
-         "k": pygame.image.load("C:/Users/YourPc/pieces/k_w.png"),
-         "n": pygame.image.load("C:/Users/YourPc/pieces/n_w.png"),
-         "p": pygame.image.load("C:/Users/YourPc/pieces/p_w.png"),
-         "q": pygame.image.load("C:/Users/YourPc/pieces/q_w.png"),
-         "r": pygame.image.load("C:/Users/YourPc/pieces/r_w.png"),
+         "b": pygame.image.load("C:/Users/YourPc/pieces/b.png"),
+         "k": pygame.image.load("C:/Users/YourPc/pieces/k.png"),
+         "n": pygame.image.load("C:/Users/YourPc/pieces/n.png"),
+         "p": pygame.image.load("C:/Users/YourPc/pieces/p.png"),
+         "q": pygame.image.load("C:/Users/YourPc/pieces/q.png"),
+         "r": pygame.image.load("C:/Users/YourPc/pieces/r.png"),
 
         }
 
