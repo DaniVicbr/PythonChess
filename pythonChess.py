@@ -11,8 +11,6 @@ tamanho_casa = x // 8
 clock = pygame.time.Clock()
 running = True
 pygame.display.set_caption("Noob Chess")
-#image = pygame.image.load("C:/Users/VICTOR/Desktop/projects/tabuleiro.png")
-#imager = pygame.transform.scale(image, (x,y))
 
 pecas = { 
          "B_w": pygame.image.load("C:/Users/YourPc/B_w.png"),
